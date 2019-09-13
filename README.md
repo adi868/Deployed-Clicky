@@ -1,16 +1,16 @@
 # Deployed-Clicky
 
 ## Overview
-Hello Pokémon Masters (or masters-in-training)! Welcome to the Pokémon Clicky-Game. This is a Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful! If you click the same image one more than once you'll lose. Get 15 right in a row, though, and you win!
+Hello Pokémon Masters (or masters-in-training)! Welcome to the Pokémon Clicky-Game. This is a Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful! If you click the same image one more than once you'll lose. Get 15 right in a row, though, and you win! Are you ready for the challenge?
 
 *Version 2.0 BGM Added*
 
 ### How To Play:
-1. The application will render different images to the screen. Each image will listen for click events.
-2. The application will track of the user's score. The user's score increments when clicking an image for the first time. The user's score will be reset to 0 if they click the same image more than once.
-3. Every time an image is clicked, the images rendered to the page shuffles themselves in a random order.
-4. Once the user's score is reset after an incorrect guess, the game restarts.
-5. The maximum score is 15 in a row. 
+1. Upon start, a random order of Pokémon will appear on the screen. 
+2. Click through the images you think you haven't seen yet. Every time an image is clicked, the images rendered on the page will be shuffled in a random order.
+3. If you correctly guess an image you haven't clicked before, the scoreboard will update and add increment +1 to your score. 
+4. Click on the same image more than once, though, and your score will be reset to 0 and the game will restart.
+5. The maximum score is 15 in a row. If you get 15 new images right in a row, you win!
 
 ### Installation:
 1. Clone the complete repository from Github [here](https://github.com/adi868/Clicky-Game)

@@ -1,4 +1,6 @@
 # Deployed-Clicky
+
+## Overview
 Deployed Pokémon Memory Game Made With React
 
 ## How To Play
@@ -8,5 +10,17 @@ Deployed Pokémon Memory Game Made With React
 4. Once the user's score is reset after an incorrect guess, the game should restart.
 5. If you get 15 images in a row right, you win!
 
+### Technology Used:
+* React.js
+* HTML5
+* CSS3
+* Javascript
+* JSX
+* ES6
+* Bootstrap
 
+### Screenshot
 ![Deployed Game](/images/clicky-game.png)
+
+### Developer:
+Adina Cianciotto

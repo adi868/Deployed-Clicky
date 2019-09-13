@@ -1,7 +1,7 @@
 # Deployed-Clicky
 
 ## Overview
-Hello Pokémon Masters (or masters-in-training)! Welcome to the Pokémon Clicky-Game. This is a Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful! If you click the same image one more than once you'll lose. Get 15 right in a row, though, and you win! Are you ready for the challenge?
+Hello Pokémon Masters (or masters-in-training)! Welcome to the Pokémon Clicky-Game. This is a Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful! If you click the same image one more than once you'll lose. Are you ready for the challenge?
 
 *Version 2.0 BGM Added*
 

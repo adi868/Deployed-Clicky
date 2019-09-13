@@ -1,4 +1,4 @@
-# Deployed-Clicky
+# Pokémon Clicky-Game 
 
 ## Overview
 Hello Pokémon Masters (or masters-in-training)! Welcome to the Pokémon Clicky-Game. This is a Pokémon-themed game that tests your ability and memory in tracking and choosing amongst a randomized array of images. Try as catch as many Pokémon as you can! But be careful. Don't click the same one more than once! 
@@ -58,7 +58,6 @@ Your app is ready to be deployed!
 
 #### Screenshot:
 ![Deployed Game](/images/clicky-game.png)
-*Version 2.0 BGM Added*
 
 #### Deployed Link: 
 [Pokémon Clicky-Game](https://adi868.github.io/Deployed-Clicky/)
